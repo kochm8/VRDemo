@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 3fb896ca2db7441cba21a112cc75b372
+timeCreated: 1473675088
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: arrow
+    100004: arrows
+    100006: bot_001
+    100008: bot_002
+    100010: bot_003
+    100012: bot_004
+    100014: bot_005
+    100016: bot_006
+    100018: bot_007
+    100020: bot_008
+    100022: bot_009
+    100024: bot_010
+    100026: bot_flex_track
+    100028: bot_IK_target
+    100030: bot_limiter
+    100032: //RootNode
+    100034: handle_tY
+    100036: knobs
+    100038: limb-bottom
+    100040: limb-top
+    100042: riser
+    100044: root
+    100046: string
+    100048: string_b_1
+    100050: string_b_2
+    100052: string_b_3
+    100054: string_b_4
+    100056: string_b_5
+    100058: string_b_6
+    100060: string_b_7
+    100062: string_ctrl
+    100064: string_pull
+    100066: string_t_1
+    100068: string_t_2
+    100070: string_t_3
+    100072: string_t_4
+    100074: string_t_5
+    100076: string_t_6
+    100078: string_t_7
+    100080: tip_bot
+    100082: tip_top
+    100084: top_001
+    100086: top_002
+    100088: top_003
+    100090: top_004
+    100092: top_005
+    100094: top_006
+    100096: top_007
+    100098: top_008
+    100100: top_009
+    100102: top_010
+    100104: top_flex_track
+    100106: top_IK_target
+    100108: top_limiter
+    100110: wgt_boneSHP
+    100112: world
+    400000: Armature
+    400002: arrow
+    400004: arrows
+    400006: bot_001
+    400008: bot_002
+    400010: bot_003
+    400012: bot_004
+    400014: bot_005
+    400016: bot_006
+    400018: bot_007
+    400020: bot_008
+    400022: bot_009
+    400024: bot_010
+    400026: bot_flex_track
+    400028: bot_IK_target
+    400030: bot_limiter
+    400032: //RootNode
+    400034: handle_tY
+    400036: knobs
+    400038: limb-bottom
+    400040: limb-top
+    400042: riser
+    400044: root
+    400046: string
+    400048: string_b_1
+    400050: string_b_2
+    400052: string_b_3
+    400054: string_b_4
+    400056: string_b_5
+    400058: string_b_6
+    400060: string_b_7
+    400062: string_ctrl
+    400064: string_pull
+    400066: string_t_1
+    400068: string_t_2
+    400070: string_t_3
+    400072: string_t_4
+    400074: string_t_5
+    400076: string_t_6
+    400078: string_t_7
+    400080: tip_bot
+    400082: tip_top
+    400084: top_001
+    400086: top_002
+    400088: top_003
+    400090: top_004
+    400092: top_005
+    400094: top_006
+    400096: top_007
+    400098: top_008
+    400100: top_009
+    400102: top_010
+    400104: top_flex_track
+    400106: top_IK_target
+    400108: top_limiter
+    400110: wgt_boneSHP
+    400112: world
+    2300000: arrow
+    2300002: wgt_boneSHP
+    3300000: arrow
+    3300002: wgt_boneSHP
+    4300000: riser
+    4300002: knobs
+    4300004: limb-top
+    4300006: limb-bottom
+    4300008: string
+    4300010: wgt_boneSHP
+    4300012: arrow
+    7400000: Default Take
+    7400002: ArmatureAction
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: knobs
+    13700002: limb-bottom
+    13700004: limb-top
+    13700006: riser
+    13700008: string
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

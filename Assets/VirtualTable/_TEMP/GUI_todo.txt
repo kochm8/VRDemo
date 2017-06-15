@@ -1,0 +1,21 @@
+admin menu
+	> current game [info about currently selected game]
+		name
+		duration
+		display stats
+	> camera position [dropdown, choose observer camera]
+	> start game [dropdown, choose a new game to be played
+	> reset objects [button, reset all objects to their original position]
+	> reset players [button, reset players to their original starting position]
+	
+
+offline menu
+	> enter player name
+	> server ip
+	> join server
+	> host game
+
+online menu
+	> disconnect 
+	> 
+

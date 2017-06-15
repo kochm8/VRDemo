@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ArcherGuardian/Scenes/OfflineScene.unity
+  isLoaded: 1
+  isActive: 1

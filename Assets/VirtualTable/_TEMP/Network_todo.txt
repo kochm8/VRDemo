@@ -1,0 +1,23 @@
+networking roadmap
+	> proof of concept
+		> player with chosen name displayed over his head
+		> player with synced vive hands / synced first person controller
+		> all connections can display player list
+	> synced usableobject and movableobject
+	> build for vive/firstperson [gui to choose option]
+	> vive player network representation (hand and head only / finalIK avatar)
+	> different network representations
+		> fps controller should have a fully animated avatar
+		> vive should have an animated avatar based on velocity and IK
+	> different local representations
+		> vive should be able to display full mesh or just hands
+
+
+
+Questions:
+    1. What is the proper way to separate local input from networked replication?
+        > Example: HTC Vive player, we only want to sync orientation and position for head and hands.
+                However the player should already be able to interact with menus etc while offline.
+                After connecting to the server other players should see a reperesentation of the vive 
+                player on their end. The Vive player also has to be able to pick up objects
+                and use them. How would we go about implementing such a functionality?
